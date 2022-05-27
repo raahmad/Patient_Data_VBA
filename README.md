@@ -10,3 +10,7 @@ Tasked with writing an Excel VBA application for use in analyzing patient data f
 Created a VBA script in Microsoft Excel that programmatically queried an SQL database and copied patient data to a worksheet
 Cleaned the raw data in the worksheet and programmatically calculated the bmi, diastolic blood pressure, and systolic blood pressure of all the patients in the dataset
 
+### Where to see code
+1. Open file
+2. Click alt + F11
+3. Can view VBA code to run program
